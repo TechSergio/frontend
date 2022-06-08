@@ -1,0 +1,19 @@
+body   {
+    background-image: url("../img/background.jpg");
+    background-size: 100%;
+    background-repeat: no-repet;
+    background-attachment: fixed;
+    
+}
+nav {
+    text-align: center;
+}
+
+.imagen {
+    width:10%;
+}
+
+h1  {
+    color:white;
+    text-align: center;
+}
