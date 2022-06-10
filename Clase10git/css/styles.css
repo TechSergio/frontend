@@ -78,6 +78,10 @@ h2{
     margin-top: 73px;
 }
 
+main {
+    width: 960px;
+height: 530px;
+}
 .ficha p{
     margin-left: 16px;
     width: 267px;
@@ -105,4 +109,9 @@ line-height: 19px;
     color: white;
     line-height: 48.52px;
     padding-left: 20px;
+}
+
+footer{
+    background-color: #00669F;
+    
 }
